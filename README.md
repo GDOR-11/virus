@@ -3,7 +3,7 @@ troll your friends
 <br><br>
 WARNING: open a new browser window to use this, because you need to close the browser window to stop this and it won't be fun if your friend loses all his unsaved data
 <br><br>
-you may say this is not a virus because it is easy to stop it and it does nothing to your computer at all, but i googled it and the definition of a computer virus is "a piece of code which is capable of copying itself and <b>typically</b> has a detrimental effect, such as corrupting the system or destroying data.", and this code replicates itselft perfeclty (as you may have noticed lol)
+you may say this is not a virus because it is easy to stop it and it does nothing to your computer at all, but i googled it and the definition of a computer virus is "a piece of code which is capable of copying itself and <ins><b>typically</b></ins> has a detrimental effect, such as corrupting the system or destroying data.", and this code replicates itselft perfeclty (as you may have noticed lol)
 
 <h1>tutorial (troll version)</h1>
 
