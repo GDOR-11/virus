@@ -25,8 +25,6 @@ close the browser before everything starts to lag too much
 
 <h1>tutorial (mean version)</h1>
 
-<h2>WARNING: these actions may not be undoable, and your friend may have to reinstall the browser (honestly i have never tried this version with the full virus)</h2>
-
 <h3>step 1</h3>
 
 open browser settings (chrome://settings/)
@@ -53,4 +51,6 @@ watch your friend being trolled
 
 <h3>step 7</h3>
 
-unknown
+use the "close tabs to the right" option on the first tab (for some reason the tab gets frozen), then access browser settings and undo all the actions you made before
+<br>
+note that this time it is much less trivial to stop the virus
