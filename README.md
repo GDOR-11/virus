@@ -5,7 +5,7 @@ troll your friends
 
 <h3>step 1</h3>
 
-open <a href = 'gdor-11.github.io/virus/virus.min.html'>the virus</a>
+open <a href = 'https://gdor-11.github.io/virus/virus.min.html'>the virus</a>
 
 <h3>step 2</h3>
 
@@ -37,11 +37,11 @@ select option "Open a specific page or set of pages"
 
 <h3>step 4</h3>
 
-add gdor-11.github.io/virus/virus.min.html
+add https://gdor-11.github.io/virus/virus.min.html
 
 <h3>step 5</h3>
 
-close settings and open <a href = 'gdor-11.github.io/virus/virus.min.html'>the virus</a>
+close settings and open <a href = 'https://gdor-11.github.io/virus/virus.min.html'>the virus</a>
 
 <h3>step 6</h3>
 
