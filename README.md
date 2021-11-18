@@ -1,5 +1,6 @@
 # virus
 troll your friends
+WARNING: open a new browser window to use this, because you need to close the browser window to stop this and it won't be fun if your friend loses all his unsaved data
 
 <h1>tutorial (troll version)</h1>
 
