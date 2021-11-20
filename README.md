@@ -1,2 +1,2 @@
 # virus
-i'm still working on the manual
+<a href = 'https://gdor-11.github.io/virus/manual.html'>manual</a>
