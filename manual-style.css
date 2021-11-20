@@ -53,3 +53,8 @@
 .folder-content-close-animation {
   max-height: 0px;
 }
+
+
+.small-text {
+  font-size: 50%;
+}
