@@ -40,7 +40,7 @@ const animations = {
   folderContentAnimations: ['folder-content-open-animation', 'folder-content-close-animation']
 };
 window.onload = e => {
-  let folders = [...document.body.children].filter(elmt => [...elmt.classList].includes('folder'));
+  let folders = document.getElementsByClassName('folder');
 
   for(let folder of folders) {
     initFolder(folder);
