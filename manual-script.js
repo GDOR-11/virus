@@ -45,6 +45,6 @@ window.onload = e => {
   for(let folder of folders) {
     initFolder(folder);
     folder.addEventListener('click', onFolderClick);
-    folder.addEventListener('touchend', onFolderClick);
+    folder.addEventListener('touchstart', onFolderClick);
   }
 }
