@@ -1,0 +1,55 @@
+.folder {
+  width: 94%;
+  height: 10%;
+  margin: 0% 1%;
+  padding: 0% 2%;
+  position: relative;
+  cursor: default;
+}
+.folder-top-section {
+  border: 1px solid lightgray;
+  border-bottom: 1px solid black;
+  position: relative;
+  left: -3%;
+  width: 94%;
+  margin: 1%;
+  padding: 2%;
+
+
+  /* why */
+  user-select: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+.folder-title {
+  font-size: 300%;
+  display: inline;
+}
+.folder-arrow {
+  display: inline;
+  transition: transform 0.5s ease;
+  fill: none;
+  stroke: dimgray;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.folder-arrow-open-animation {
+  transform: rotate(180deg);
+}
+.folder-arrow-close-animation {
+  transform: rotate(0deg);
+}
+.folder-content {
+  --height: 0px;
+  transition: max-height 0.5s ease;
+  overflow: hidden;
+}
+.folder-content-open-animation {
+  max-height: var(--height);
+}
+.folder-content-close-animation {
+  max-height: 0px;
+}
