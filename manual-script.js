@@ -35,15 +35,16 @@ function onFolderClick(event) { // this == folder clicked
 }
 
 
+window.onload = e => {
+  let folders = [...document.body.children].filter(elmt => [...elmt.classList].includes('folder'));
+  const animations = {
+    folderArrowAnimations: ['folder-arrow-open-animation', 'folder-arrow-close-animation'],
+    folderContentAnimations: ['folder-content-open-animation', 'folder-content-close-animation']
+  };
 
-let folders = [...document.body.children].filter(elmt => [...elmt.classList].includes('folder'));
-const animations = {
-  folderArrowAnimations: ['folder-arrow-open-animation', 'folder-arrow-close-animation'],
-  folderContentAnimations: ['folder-content-open-animation', 'folder-content-close-animation']
-};
-
-for(let folder of folders) {
-  initFolder(folder);
-  folder.addEventListener('click', onFolderClick);
-  folder.addEventListener('touchend', onFolderClick);
+  for(let folder of folders) {
+    initFolder(folder);
+    folder.addEventListener('click', onFolderClick);
+    folder.addEventListener('touchend', onFolderClick);
+  }
 }
